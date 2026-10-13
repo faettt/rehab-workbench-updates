@@ -2,5 +2,5 @@
   "versionCode": 8,
   "versionName": "1.6",
   "changelog": "床号重复可确认继续（支持加床）；新增应用内检查更新。",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@v1.6/apk/RehabWorkbench-v1.6-release.apk"
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.6-release.apk"
 }
