@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.7",
-  "changelog": "晨间纸感风格统一；应用图标重绘为纸墨风；更新检查加固。",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.7-release.apk"
+  "versionCode": 11,
+  "versionName": "1.7.1",
+  "changelog": "应用配色与图标回退为青绿原版。",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.7.1-release.apk"
 }
