@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.7.1",
-  "changelog": "应用配色与图标回退为青绿原版。",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.7.1-release.apk"
+  "versionCode": 12,
+  "versionName": "1.8",
+  "changelog": "病人倒计时：卡片菜单一键开跑（默认30分钟，设置页可改）；卡片显示剩余时间，到时琥珀提示；到点自动勾选今日已做，弹窗/通知+铃声震动提醒约30秒（静音模式不响铃）；锁屏或App被杀仍准点提醒，重开App自动续算；Android 12+ 首次使用需允许一次闹钟权限",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8-release.apk"
 }
