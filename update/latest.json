@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.8.1",
-  "changelog": "修复后台/锁屏时到点不提醒的问题：闹钟改走系统闹钟通道、计时期间通知栏常驻倒计时；OPPO/一加/真我首次使用需按弹窗指引关闭系统省电延期（两个开关，设置一次即可）",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.1-release.apk"
+  "versionCode": 14,
+  "versionName": "1.8.2",
+  "changelog": "床号支持符号：可输入 12A、3-1 等加床号；列表按数字自然排序；旧数据与旧备份自动兼容",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.2-release.apk"
 }
