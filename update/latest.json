@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.8.2",
-  "changelog": "床号支持符号：可输入 12A、3-1 等加床号；列表按数字自然排序；旧数据与旧备份自动兼容",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.2-release.apk"
+  "versionCode": 15,
+  "versionName": "1.8.3",
+  "changelog": "后台/锁屏提醒增强：到点改为系统闹钟式全屏提醒页（比横幅更醒目）；新增「静音时也响铃」开关（设置→倒计时，开启后像系统闹钟一样静音档也响铃）；注：OPPO平板无震动马达，震动提醒在平板上天然无效，建议开启静音也响铃",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.3-release.apk"
 }
