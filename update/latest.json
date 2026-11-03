@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.8.3",
-  "changelog": "后台/锁屏提醒增强：到点改为系统闹钟式全屏提醒页（比横幅更醒目）；新增「静音时也响铃」开关（设置→倒计时，开启后像系统闹钟一样静音档也响铃）；注：OPPO平板无震动马达，震动提醒在平板上天然无效，建议开启静音也响铃",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.3-release.apk"
+  "versionCode": 16,
+  "versionName": "1.8.4",
+  "changelog": "到点提醒升级为系统闹钟式：锁屏/灭屏时自动点亮屏幕并弹出全屏提醒页（床号姓名+知道了），后台点通知同样进全屏页；多个到点依次提醒",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.4-release.apk"
 }
