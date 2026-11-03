@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.8.5",
-  "changelog": "修复手机上时长选择弹窗「30」被挤成上下两行竖块（快捷按钮改为自动换行）；工作台顶部标题行更紧凑（字号不变，纵向占位减约三分之一，列表空间更多）",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.5-release.apk"
+  "versionCode": 18,
+  "versionName": "1.8.6",
+  "changelog": "修复手机上「康复日记」标题显示不全；工作台支持左右滑动切换在管/已出院（Tab 点按仍然可用，双向联动）",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.6-release.apk"
 }
