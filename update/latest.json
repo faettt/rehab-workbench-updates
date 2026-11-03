@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.8.4",
-  "changelog": "到点提醒升级为系统闹钟式：锁屏/灭屏时自动点亮屏幕并弹出全屏提醒页（床号姓名+知道了），后台点通知同样进全屏页；多个到点依次提醒",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.4-release.apk"
+  "versionCode": 17,
+  "versionName": "1.8.5",
+  "changelog": "修复手机上时长选择弹窗「30」被挤成上下两行竖块（快捷按钮改为自动换行）；工作台顶部标题行更紧凑（字号不变，纵向占位减约三分之一，列表空间更多）",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/faettt/rehab-workbench-updates@main/apk/RehabWorkbench-v1.8.5-release.apk"
 }
